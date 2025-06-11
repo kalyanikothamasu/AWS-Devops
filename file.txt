@@ -12,4 +12,29 @@
 once after commiting the code into your master  on your local machine it has to push to remote Server that is on github.
 
 for that you need to run 
+  git init
+   22  git confid --global user.name "kalyani"
+   23  git config --global user.name "kalyani"
+   24  git config --global user.email "kalyani.kmas@gmail.com"
+   25  git config --list
+   26  git config --global user.email "kalyani.kmas@gmail.com"
+   27  git config --list
+   28  vi file.txt
+   29  git status
+   30  git add file.txt
+   31  git status
+   32  git rm --cached file.txt
+   33  git sta
+   34  git status
+   35  git add file.txt
+   36  git status
+   37  vi file.txt
+   38  git commit -m "file.txt"
+   39  git log
+   40  git branch -M main
+   41  git remote add origin https://github.com/kalyanikothamasu/AWS-Devops.git
+   42  git push -u origin main
+   43  this are the commands fom creating a user on your local system and creating user and user email than creating file on local and adding it to staging area 
+commiting and pushing the code to Github remote sever
+
  
