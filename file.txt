@@ -9,4 +9,7 @@
  git config --global user.name "kalyani"
  git config --global user.email "kalyani.kmas@gmail.com"
  git config --list
+once after commiting the code into your master  on your local machine it has to push to remote Server that is on github.
+
+for that you need to run 
  
