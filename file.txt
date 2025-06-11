@@ -1,0 +1,12 @@
+ welcome to Git Repository
+
+ to initialize git on your local machine first create a folder and right click on it open with git bash
+
+ and inititial it with git init command the local folder will now convert to repository .git
+
+ now we have to create a user. only one user can be created on our local
+
+ git config --global user.name "kalyani"
+ git config --global user.email "kalyani.kmas@gmail.com"
+ git config --list
+ 
